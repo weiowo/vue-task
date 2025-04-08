@@ -16,6 +16,12 @@ function formSubmitted() {
     error.value = "Task cannot be empty!";
   }
 }
+
+
+</script>
+
+<script lang="ts">
+export default {};
 </script>
 
 <template>

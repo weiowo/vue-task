@@ -9,6 +9,11 @@ const props = defineProps<{
 const emits = defineEmits<{
   setFilter: [filter: TaskFilter]
 }>();
+
+</script>
+
+<script lang="ts">
+export default {};
 </script>
 
 <template>

@@ -9,6 +9,11 @@ const emits = defineEmits<{
   toggleDone: [id: string];
   removeTask: [id: string];
 }>();
+
+</script>
+
+<script lang="ts">
+export default {};
 </script>
 
 <template>
